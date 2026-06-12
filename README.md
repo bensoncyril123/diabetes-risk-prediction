@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-  🔗 <b>Live dashboard:</b> <a href="https://bensoncyril123-diabetes-risk-prediction-dashboardapp-wataba.streamlit.app/">bensoncyril123-diabetes-risk-prediction-dashboardapp-wataba.streamlit.app</a>
+  🔗 <b>Live dashboard:</b> <a href="https://bensoncyril123-diabetes-dashboard-dashboardapp-i5lrtb.streamlit.app/">bensoncyril123-diabetes-dashboard-dashboardapp-i5lrtb.streamlit.app</a>
+  <br><sub>also deployed standalone from this repo: <a href="https://bensoncyril123-diabetes-risk-prediction-dashboardapp-wataba.streamlit.app/">bensoncyril123-diabetes-risk-prediction-dashboardapp-wataba.streamlit.app</a></sub>
 </p>
 
 ---
