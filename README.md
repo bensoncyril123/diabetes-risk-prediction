@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🔗 <b>Live dashboard:</b> <i>add your deployed Streamlit URL here once published</i>
+  🔗 <b>Live dashboard:</b> <a href="https://bensoncyril123-diabetes-risk-prediction-dashboardapp-wataba.streamlit.app/">bensoncyril123-diabetes-risk-prediction-dashboardapp-wataba.streamlit.app</a>
 </p>
 
 ---
