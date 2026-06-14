@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.9-F7931E?logo=scikit-learn&logoColor=white">
-  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-4.6-9ACD32?logo=leaflet&logoColor=white">
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-4.6-9ACD32">
   <img alt="SHAP" src="https://img.shields.io/badge/SHAP-explainability-8A2BE2">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-1.37-FF4B4B?logo=streamlit&logoColor=white">
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-5.24-3F4F75?logo=plotly&logoColor=white">
